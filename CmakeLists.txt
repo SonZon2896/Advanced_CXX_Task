@@ -5,3 +5,4 @@ set(PROJECT_NAME Advanced_CXX_Task)
 project (Advanced_CXX_Task)
 
 add_subdirectory(Task_1)
+add_subdirectory(Task_2)
