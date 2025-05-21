@@ -29,7 +29,6 @@ int main() {
   assert(one < two);
   assert(one != two);
 
-  // Проверка счетчика
   std::cout << "Count: " << counter<Number>::count() << std::endl;
   {
     Number five{5};
